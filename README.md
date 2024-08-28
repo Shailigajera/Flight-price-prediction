@@ -1,0 +1,1 @@
+This project aims to predict flight prices based on historical data and various features such as departure and arrival airports, travel dates, and airline information. The goal is to provide a reliable and accurate prediction model that can help travelers make informed decisions about their flight bookings.
